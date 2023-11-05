@@ -1,7 +1,7 @@
 <h1 align="center">Analyzing Revenue Insights for AtliQ Grands</h1>
 <h3 align="center">Revitalizing Revenue Management in the Hospitality Domain</h3>
 
-<img align='right' alt="Dashboard" width="400" src="https://your-image-url.com/your-image.png">
+<img align='right' alt="Dashboard" width="400" src="https://github.com/burhanuddink/Hospitality-Revenue-Insights/blob/main/image_2023-11-05_124703009.png">
 
 
 <h3 align="left">Introduction</h3>
